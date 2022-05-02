@@ -1,0 +1,38 @@
+body,
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+.div1,
+.div2 {
+	height: 100vh;
+}
+.div1 {
+	background-color: rgb(30, 186, 197);
+}
+
+.div2 {
+	background-color: sandybrown;
+}
+
+.square {
+	width: 150px;
+	height: 150px;
+	background-color: rgb(43, 43, 43);
+}
+.square2 {
+	/* margin-top: 300px; */
+	width: 150px;
+	height: 150px;
+	background-color: rgba(33, 77, 143, 0.356);
+}
+.squarepin {
+	width: 150px;
+	height: 150px;
+	background-color: rgba(4, 96, 235, 0.356);
+}
+.toggle {
+	background-color: pink;
+}
